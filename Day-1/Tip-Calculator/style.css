@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+.main-div {
+  background-color: aquamarine;
+  width: 50%;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px lightblue;
+}
+
+input{
+    width: 100%;
+}
+button{
+    width: 100%;
+    background-color: green;
+    
+}
+
