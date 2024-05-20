@@ -10,39 +10,28 @@ Welcome to my 100 Days of Coding Challenge! For the next 100 days, I will be cre
 
 ## Project Structure
 
-Each day's project will be organized in its own directory named `DayX_ProjectName` (e.g., `Day1_ResponsiveNavbar`). Each directory will contain:
+Each day's project will be organized in its own directory named `100-Days-of-Coding-Projects`. Each directory will contain:
 
+- `Project Name Folder `: According to each day project there will be a project name inside each day project and it will contain following files.
 - `index.html`: The HTML file for the project.
 - `style.css`: The CSS file for styling the project.
-- `script.js`: The JavaScript file for adding interactivity to the project.
-- `README.md`: A brief description of the project, its features, and any additional notes.
+- `main.js`: The JavaScript file for adding interactivity to the project.
 
 ## Daily Log
 
 I will be maintaining a daily log of the projects I create. This log will include the project name, a brief description, and a screenshot or link to the live demo.
 
-### Day 1: Responsive Navbar
+### Day 1: Tip-Calculator
+### Day 2: Calculator
+### Day 3: Background-Color-Changer
 
-- **Project Name**: Responsive Navbar
-- **Description**: A responsive navigation bar that adjusts to different screen sizes.
-- **Link**: [Live Demo](#)
-- **Screenshot**: ![Responsive Navbar](path/to/screenshot.png)
 
-### Day 2: CSS Grid Layout
 
-- **Project Name**: CSS Grid Layout
-- **Description**: A webpage layout designed using CSS Grid.
-- **Link**: [Live Demo](#)
-- **Screenshot**: ![CSS Grid Layout](path/to/screenshot.png)
 
 ...
 
 ### Day 100: Final Project
 
-- **Project Name**: Final Project
-- **Description**: A comprehensive project showcasing all the skills and techniques learned throughout the challenge.
-- **Link**: [Live Demo](#)
-- **Screenshot**: ![Final Project](path/to/screenshot.png)
 
 ## How to Contribute
 
