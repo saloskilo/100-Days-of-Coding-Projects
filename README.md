@@ -24,6 +24,7 @@ I will be maintaining a daily log of the projects I create. This log will includ
 ### Day 1: Tip-Calculator
 ### Day 2: Calculator
 ### Day 3: Background-Color-Changer
+### Day 4: Counter
 
 
 
