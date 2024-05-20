@@ -1,0 +1,44 @@
+#container {
+  position: relative;
+  background-color: aqua;
+  margin: auto;
+  width: 50%;
+  height: 100vh;
+  background: url(Analogue_clock_face.svg.png);
+  background-size: 100vh;
+  background-repeat: no-repeat;
+  border: saddlebrown solid 3px;
+}
+#hours,
+#minutes,
+#seconds {
+  position: absolute;
+  transform-origin: bottom;
+}
+
+#hours {
+  width: 10px;
+  height: 25%;
+  background-color: black;
+  left: 48.5%;
+  top: 25%;
+  border-radius: 5px;
+}
+
+#minutes {
+  width: 7px;
+  height: 30%;
+  background-color: red;
+  left: 48.5%;
+  top: 20%;
+  border-radius: 5px;
+}
+
+#seconds {
+  width: 5px;
+  height: 35%;
+  background-color: yellow;
+  left: 49%;
+  top: 15%;
+  border-radius: 5px;
+}
