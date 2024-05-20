@@ -30,8 +30,6 @@ I will be maintaining a daily log of the projects I create. This log will includ
 
 ...
 
-### Day 100: Final Project
-
 
 ## How to Contribute
 
