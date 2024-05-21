@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.mainDiv {
+    width: 500px;
+    padding: 40px;
+    background-color: #9DC88D;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+span {
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+}
