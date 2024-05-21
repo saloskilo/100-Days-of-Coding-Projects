@@ -26,6 +26,9 @@ I will be maintaining a daily log of the projects I create. This log will includ
 ### Day 3: Background-Color-Changer
 ### Day 4: Counter
 ### Day 5: Analog Watch
+### Day 6: Live-Letters-Counter
+### Day 7: Kilogram to Pound Weight Converter
+
 
 
 
