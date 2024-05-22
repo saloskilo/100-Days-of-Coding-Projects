@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #61e7ff;
+    height: 90vh;
+}
+.container{
+    padding: 3rem;
+    border-radius: 50px;
+    background: #61e7ff;
+    box-shadow: inset 20px 20px 60px #52c4d9, inset -20px -20px 60px #70ffff;
+}
