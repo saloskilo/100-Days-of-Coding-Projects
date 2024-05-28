@@ -30,6 +30,8 @@ I will be maintaining a daily log of the projects I create. This log will includ
 ### Day 7: Kilogram to Pound Weight Converter
 ### Day 8: Message
 ### Day 9: Digital Clock
+### Day 10: BMI Calculator
+
 
 
 
