@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(128, 240, 221)
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column ;
+    width: 50%;
+    height: 400px;
+    padding: 10px;
+    background-color: rgb(78, 223, 163);
+    border-radius: 10px;
+    box-shadow: inset;
+}
+input{
+    width: 50%;
+    height: 20px;
+    border-radius: 5px;
+    padding: 3px;
+    margin: 7px;
+}
