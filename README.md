@@ -32,6 +32,7 @@ I will be maintaining a daily log of the projects I create. This log will includ
 ### Day 9: Digital Clock
 ### Day 10: BMI Calculator
 ### Day 11: Stop Watch
+### Day 12: Weather-App
 
 
 
