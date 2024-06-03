@@ -98,6 +98,7 @@ body{
     display: flex;
     justify-content: space-between;
     margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 .humidity, .wind{
@@ -142,4 +143,7 @@ body{
 }
 .location-not-found img{
     width: 80%;
+}
+div p span {
+    margin-top: 50px;
 }
