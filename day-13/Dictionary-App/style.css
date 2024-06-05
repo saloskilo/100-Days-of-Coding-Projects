@@ -1,0 +1,73 @@
+:root {
+    --primary-color: rgb(0, 128, 122);
+    --bck-color: rgb(248, 248, 248);
+    --padding: 20px;
+    --text-color: white;
+    --border-radius: 5px
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--bck-color);
+    width: 100vw;
+}
+
+header {
+    background-color: var(--primary-color);
+    padding: var(--padding);
+    color: var(--text-color);
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+main {
+    min-height: 78vh;
+    padding: var(--padding);
+    max-width: 800px;
+    margin: auto;
+}
+
+main form {
+    display: flex;
+    justify-content: center;
+
+}
+
+form input[type="text"],
+button[type="submit"] {
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: var(--border-radius);
+    padding: var(--padding)
+}
+
+form input[type="text"] {
+    flex-grow: 1;
+}
+
+form button[type="submit"] {
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    padding: var(--padding);
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    padding: var(--padding);
+    text-align: center;
+    font-size: 18px;
+    position: fixed;
+    width: 100%;
+}
