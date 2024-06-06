@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <link rel="stylesheet" href="stule.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Currency Converter</title>
   </head>
@@ -11,8 +12,23 @@
         <div class="converter-container">
           <h1>currency converter</h1>
           <div class="input-container">
-            <input type="number" value="1" min="1"/>
+            <input type="number" value="1" min="1" class="amount"/>
+            <select class="from-currency">
+                <option value="PKR">PKR</option>
+                <option value="USD">USD</option>
+
+            </select>
           </div>
+          <div class="arrow">&rarr;</div>
+          <div class="input-container">
+            <input type="number" class="convertedamount" />
+            <select class="to-currency">
+                <option value="PKR">PKR</option>
+                <option value="USD">USD</option>
+
+            </select>
+          </div>
+          <div class="result">1 USD = 278.49 PKR</div>
         </div>
       </section>
     </main>
